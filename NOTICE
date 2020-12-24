@@ -1,0 +1,81 @@
+example.programming.web.coniestica, Coniestica
+Copyright (C) 2019-2020 Tobias Briones. All rights reserved.
+
+--------------------------------------------------------------------------------
+This project contains images provided by Pixabay (https://pixabay.com/),
+available under the Pixabay License (https://pixabay.com/service/license/),
+where some of these images have been modified; the complete list of images is 
+listed next:
+
+- /_project/img/background.jpg:
+  from https://pixabay.com/photos/skyscraper-singapore-sky-blue-3184798/
+  by   https://pixabay.com/users/cegoh-94852/
+  
+- /_project/img/background2.jpg:
+  from https://pixabay.com/photos/hamburg-port-of-hamburg-3021820/
+  by   https://pixabay.com/users/julius_silver-4371822/
+
+- /_project/img/clouds.svg:
+  from https://pixabay.com/vectors/startup-cloud-business-office-4625655/
+  by   https://pixabay.com/users/megan_rexazin-6742250/
+
+- /_project/img/coniestica.png, /_project/img/favicon.png, /favicon.png:
+  from https://pixabay.com/illustrations/delivery-girl-courier-woman-1417310/
+  by   https://pixabay.com/users/graphicmama-team-2641041/
+    
+  and 
+  
+  from https://pixabay.com/vectors/flat-design-symbol-icon-www-2126876/
+  by   https://pixabay.com/users/janjf93-3084263/
+
+- /_project/img/ic_article.png:
+  from https://pixabay.com/vectors/manuscript-newspaper-article-paper-149606/
+  by   https://pixabay.com/users/openclipart-vectors-30363/
+
+- /_project/img/ic_images.jpg:
+  from https://pixabay.com/photos/brush-color-paint-play-watercolor-96240/
+  by   https://pixabay.com/users/weinstock-25534/
+  
+- /_project/img/ic_services.png:
+  from https://pixabay.com/vectors/website-internet-internet-page-1778529/
+  by   https://pixabay.com/users/janjf93-3084263/
+
+- /_project/img/ic_services_customs.png:
+  from https://pixabay.com/vectors/customs-service-travel-customer-44004/
+  by   https://pixabay.com/users/clker-free-vector-images-3736/
+
+- /_project/img/ic_services_label.png:
+  from https://pixabay.com/vectors/icon-batch-mark-label-157357/
+  by   https://pixabay.com/users/openclipart-vectors-30363/
+
+- /_project/img/ic_services_legal.png:
+  from https://pixabay.com/vectors/scales-law-justice-balance-weight-303434/
+  by   https://pixabay.com/users/clker-free-vector-images-3736/
+  
+- /_project/img/ic_services_storage.png:
+  from https://pixabay.com/vectors/forklift-merchandise-storage-160284/
+  by   https://pixabay.com/users/openclipart-vectors-30363/
+
+- /_project/img/ic_services_transport.png:
+  from https://pixabay.com/illustrations/truck-vehicles-transport-lead-1918551/
+  by   https://pixabay.com/users/superbea-4052665/
+
+- /_project/img/ic_vector.png:
+  from https://pixabay.com/vectors/gradient-mesh-bakery-products-bake-1264214/
+  by   https://pixabay.com/users/deviser-1919446/
+
+- /_project/img/british_flag.svg:
+  from https://pixabay.com/vectors/union-jack-flag-union-flag-26119/
+  by   https://pixabay.com/users/clker-free-vector-images-3736/
+
+- /_project/img/spanish_flag.svg:
+  from https://pixabay.com/vectors/flag-spain-spanish-banner-35697/
+  by   https://pixabay.com/users/clker-free-vector-images-3736/
+
+Copies of the listed images are also present in the /src/img/ folder.
+
+--------------------------------------------------------------------------------
+Loading css spinner from https://loading.io/css/ licensed under the CC0 License.
+
+--------------------------------------------------------------------------------
+Social icons are taken from the corresponding company brand resources.

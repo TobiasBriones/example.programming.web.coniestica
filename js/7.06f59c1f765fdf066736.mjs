@@ -1,0 +1,12 @@
+/*!
+ * 
+ *   Example Project - Coniestica
+ *   Copyright (C) 2019-2020 Tobias Briones <tobiasbriones.dev@gmail.com>. All rights reserved.
+ *   Licensed under the GNU General Public License v3.0 License. 
+ *   
+ *   Source code published at https://github.com/TobiasBriones/example.programming.web.coniestica.
+ *   This project includes images and icons, see the NOTICE file at the root of the
+ *   source code for more details.
+ * 
+ */
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{101:function(e,o,a){"use strict";a.r(o),o.default={APP_NAME:"Coniestica",L_MEANS:"means",L_OUR_SERVICES:"Our services",L_LEARN_MORE:"Learn more",L_RECOMMENDED_LINKS:"Recommended links",L_SECURITY_STANDARDS:"Security standards",L_SEND:"Send",L_COMPANY:"Company",L_SERVICES:"Services",L_CLIENTS:"Clients",L_CONTACTS:"Contacts",L_LEGAL:"Legal",L_PRIVACY:"Privacy",L_TERMS_AND_CONDITIONS:"Terms and conditions",L_EXTERNAL_ARTICLE:"External article",L_PIXABAY_IMAGES:"Pixabay images",L_GITHUB:"GitHub",L_MORE:"More",L_ABOUT:"About",L_SOCIAL_NETWORKS:"Social networks",CONIESTICA_MEANING:"Consolidadora Internacional Importación Exportación y Servicios de Logística.",TRANSPORT_TITLE:"Specialized freight transport",SUBSCRIBE_INFO:"Subscribe to be up to date",CONIESTICA_SA:"Coniestica, S.A.",CONIESTICA_ADDRESS:"Coniestica, S.A. Col. TheSmiths, 2 Calle. 18-19 Ave. S.E. No.1044, San Pedro Sula, Honduras",CONIESTICA_COPYRIGHT_NOTICE:"© 2019 Coniestica, S.A.",ENTER_CORRECT_EMAIL_MSG:"Please enter a valid email address",SUCCESSFULLY_SUBSCRIBE_MSG:"You were subscribed successfully!",WEBSITE_INFO:"\n    In our website you can find information about our services and get in touch with us.\n   ",OUR_SERVICES_INFO:"\n    We are dedicated to professionally manage all import and export freight processes for all types of users from\n    personal packages to loads for large organizations. Leave complex logistics tasks to professionals and focus on your\n    business to be more productive.\n  ",CONIESTICA_IS_CERTIFIED_INFO:"\n    is certified under OHSAS 18001 and ISO 22301 standards, which guarantees the common good of our workers and the\n    continuous functionality of the company to constantly provide the service to all our clients.\n  "}}}]);
