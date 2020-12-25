@@ -17,7 +17,7 @@ Run ```npm run build:prod``` to build the production bundle.
 
 ## Notes
 
-- The website uses hard-coded HTML and values to update the GUI, see [values](./src/js/values). This
+- The website uses hard-coded HTML and values to update the GUI, see ```./src/js/values/```. This
   is due to avoid calling an API to fetch resources and make the website standalone. This behavior
   can be changed to fetch the data from a server and use HTML DOM elements to update the GUI
   instead.
